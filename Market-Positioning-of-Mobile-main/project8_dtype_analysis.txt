@@ -1,0 +1,189 @@
+0     842
+1    1021
+2     563
+3     615
+4    1821
+Name: battery_power, dtype: int64
+Unique: 1094, missing: 0
+
+-----------------
+0    0
+1    1
+2    1
+3    1
+4    1
+Name: blue, dtype: int64
+Unique: 2, missing: 0
+
+-----------------
+0    2.2
+1    0.5
+2    0.5
+3    2.5
+4    1.2
+Name: clock_speed, dtype: float64
+Unique: 26, missing: 0
+
+-----------------
+0    0
+1    1
+2    1
+3    0
+4    0
+Name: dual_sim, dtype: int64
+Unique: 2, missing: 0
+
+-----------------
+0     1
+1     0
+2     2
+3     0
+4    13
+Name: fc, dtype: int64
+Unique: 20, missing: 0
+
+-----------------
+0    0
+1    1
+2    1
+3    0
+4    1
+Name: four_g, dtype: int64
+Unique: 2, missing: 0
+
+-----------------
+0     7
+1    53
+2    41
+3    10
+4    44
+Name: int_memory, dtype: int64
+Unique: 63, missing: 0
+
+-----------------
+0    0.6
+1    0.7
+2    0.9
+3    0.8
+4    0.6
+Name: m_dep, dtype: float64
+Unique: 10, missing: 0
+
+-----------------
+0    188
+1    136
+2    145
+3    131
+4    141
+Name: mobile_wt, dtype: int64
+Unique: 121, missing: 0
+
+-----------------
+0    2
+1    3
+2    5
+3    6
+4    2
+Name: n_cores, dtype: int64
+Unique: 8, missing: 0
+
+-----------------
+0     2
+1     6
+2     6
+3     9
+4    14
+Name: pc, dtype: int64
+Unique: 21, missing: 0
+
+-----------------
+0      20
+1     905
+2    1263
+3    1216
+4    1208
+Name: px_height, dtype: int64
+Unique: 1137, missing: 0
+
+-----------------
+0     756
+1    1988
+2    1716
+3    1786
+4    1212
+Name: px_width, dtype: int64
+Unique: 1109, missing: 0
+
+-----------------
+0    2549
+1    2631
+2    2603
+3    2769
+4    1411
+Name: ram, dtype: int64
+Unique: 1562, missing: 0
+
+-----------------
+0     9
+1    17
+2    11
+3    16
+4     8
+Name: sc_h, dtype: int64
+Unique: 15, missing: 0
+
+-----------------
+0    7
+1    3
+2    2
+3    8
+4    2
+Name: sc_w, dtype: int64
+Unique: 19, missing: 0
+
+-----------------
+0    19
+1     7
+2     9
+3    11
+4    15
+Name: talk_time, dtype: int64
+Unique: 19, missing: 0
+
+-----------------
+0    0
+1    1
+2    1
+3    1
+4    1
+Name: three_g, dtype: int64
+Unique: 2, missing: 0
+
+-----------------
+0    0
+1    1
+2    1
+3    0
+4    1
+Name: touch_screen, dtype: int64
+Unique: 2, missing: 0
+
+-----------------
+0    1
+1    0
+2    0
+3    0
+4    0
+Name: wifi, dtype: int64
+Unique: 2, missing: 0
+
+-----------------
+0    1
+1    2
+2    2
+3    2
+4    1
+Name: price_range, dtype: int64
+Unique: 4, missing: 0
+
+-----------------
