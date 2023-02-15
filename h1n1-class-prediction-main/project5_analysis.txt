@@ -1,0 +1,51 @@
+remove:
+unique_id
+
+encode of categorical variables
+
+rstate:100=0.8340882477694398
+rstate:123=0.8340510189010635
+
+Testing: (baseline)
+              precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90      4158
+           1       0.70      0.40      0.51      1184
+
+    accuracy                           0.83      5342
+   macro avg       0.77      0.68      0.70      5342
+weighted avg       0.82      0.83      0.81      5342
+
+
+Testing: (thresholding at 0.6)
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         0
+           0       0.88      0.90      0.89      4158
+           1       0.74      0.27      0.39      1184
+
+    accuracy                           0.76      5342
+   macro avg       0.54      0.39      0.43      5342
+weighted avg       0.85      0.76      0.78      5342
+
+
+Testing:(thresholding at 0.7)
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         0
+           0       0.90      0.83      0.86      4158
+           1       0.80      0.15      0.25      1184
+
+    accuracy                           0.68      5342
+   macro avg       0.57      0.33      0.37      5342
+weighted avg       0.88      0.68      0.73      5342
+
+
+
+
+
+
+
+All Data:
+best_model : ('GBC', 0.8401)
+models_data : {'LogR': {'mean': 0.8351, 'std': 0.0047}, 'KNN': {'mean': 0.7918, 'std': 0.0037}, 'DTC': {'mean': 0.7522, 'std': 0.0041}, 'NBC': {'mean': 0.7623, 'std': 0.0071}, 'SVC': {'mean': 0.8301, 'std': 0.0022}, 'RFC': {'mean': 0.8354, 'std': 0.0029}, 'GBC': {'mean': 0.8401, 'std': 0.0028}, 'XGB': {'mean': 0.833, 'std': 0.0026}, 'MLP': {'mean': 0.8179, 'std': 0.0063}}
