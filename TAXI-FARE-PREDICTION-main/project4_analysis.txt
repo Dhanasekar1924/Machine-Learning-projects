@@ -1,0 +1,13 @@
+columns to remove
+unique_id
+
+date to time: 
+date_time_of_pickup
+
+baseline DTR:
+RMSE =  6.917489088294007
+Error Rate (RMSE/Y_mean) =  60.87 %
+Prediction Rate (Predictions with <=10% of RMSE) =  21.21 %
+Over-Prediction % =  48.46 %
+Under-Prediction % =  46.79 %
+
