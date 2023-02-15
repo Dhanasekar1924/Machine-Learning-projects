@@ -1,0 +1,189 @@
+0    56
+1    57
+2    37
+3    40
+4    56
+Name: age, dtype: int64
+Unique: 78, missing: 0
+
+-----------------
+0    housemaid
+1     services
+2     services
+3       admin.
+4     services
+Name: job, dtype: object
+Unique: 12, missing: 0
+
+-----------------
+0    married
+1    married
+2    married
+3    married
+4    married
+Name: marital, dtype: object
+Unique: 4, missing: 0
+
+-----------------
+0       basic.4y
+1    high.school
+2    high.school
+3       basic.6y
+4    high.school
+Name: education, dtype: object
+Unique: 8, missing: 0
+
+-----------------
+0         no
+1    unknown
+2         no
+3         no
+4         no
+Name: default, dtype: object
+Unique: 3, missing: 0
+
+-----------------
+0     no
+1     no
+2    yes
+3     no
+4     no
+Name: housing, dtype: object
+Unique: 3, missing: 0
+
+-----------------
+0     no
+1     no
+2     no
+3     no
+4    yes
+Name: loan, dtype: object
+Unique: 3, missing: 0
+
+-----------------
+0    telephone
+1    telephone
+2    telephone
+3    telephone
+4    telephone
+Name: contact, dtype: object
+Unique: 2, missing: 0
+
+-----------------
+0    may
+1    may
+2    may
+3    may
+4    may
+Name: month, dtype: object
+Unique: 10, missing: 0
+
+-----------------
+0    mon
+1    mon
+2    mon
+3    mon
+4    mon
+Name: day_of_week, dtype: object
+Unique: 5, missing: 0
+
+-----------------
+0    261
+1    149
+2    226
+3    151
+4    307
+Name: duration, dtype: int64
+Unique: 1544, missing: 0
+
+-----------------
+0    1
+1    1
+2    1
+3    1
+4    1
+Name: campaign, dtype: int64
+Unique: 42, missing: 0
+
+-----------------
+0    999
+1    999
+2    999
+3    999
+4    999
+Name: pdays, dtype: int64
+Unique: 27, missing: 0
+
+-----------------
+0    0
+1    0
+2    0
+3    0
+4    0
+Name: previous, dtype: int64
+Unique: 8, missing: 0
+
+-----------------
+0    nonexistent
+1    nonexistent
+2    nonexistent
+3    nonexistent
+4    nonexistent
+Name: poutcome, dtype: object
+Unique: 3, missing: 0
+
+-----------------
+0    1.1
+1    1.1
+2    1.1
+3    1.1
+4    1.1
+Name: emp.var.rate, dtype: float64
+Unique: 10, missing: 0
+
+-----------------
+0    93.994
+1    93.994
+2    93.994
+3    93.994
+4    93.994
+Name: cons.price.idx, dtype: float64
+Unique: 26, missing: 0
+
+-----------------
+0   -36.4
+1   -36.4
+2   -36.4
+3   -36.4
+4   -36.4
+Name: cons.conf.idx, dtype: float64
+Unique: 26, missing: 0
+
+-----------------
+0    4.857
+1    4.857
+2    4.857
+3    4.857
+4    4.857
+Name: euribor3m, dtype: float64
+Unique: 316, missing: 0
+
+-----------------
+0    5191.0
+1    5191.0
+2    5191.0
+3    5191.0
+4    5191.0
+Name: nr.employed, dtype: float64
+Unique: 11, missing: 0
+
+-----------------
+0    no
+1    no
+2    no
+3    no
+4    no
+Name: y, dtype: object
+Unique: 2, missing: 0
+
+-----------------
