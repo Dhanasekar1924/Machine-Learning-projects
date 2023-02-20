@@ -44,6 +44,7 @@ amount
 The target variable is "amount", which represents the taxi fare.
 
 Results
+
 After performing feature engineering and model training, the best model achieved an R^2 score of 0.76 on the test set. This suggests that the model explains 76% of the variance in the target variable. Further improvements to the model could be made by collecting more data, engineering additional features, or using more advanced modeling techniques.
 
 Acknowledgments
